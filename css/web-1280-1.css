@@ -1,0 +1,684 @@
+/* screen - web-1280-1 */
+
+.web-1280-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 3157px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.web-1280-1 .overlap-group3 {
+  height: 1671px;
+  margin-right: -42.68px;
+  margin-top: -104px;
+  position: relative;
+  width: 1331px;
+}
+
+.web-1280-1 .rectangle-1-1 {
+  background-color: #032863;
+  height: 766px;
+  left: 10px;
+  position: absolute;
+  top: 106px;
+  width: 1280px;
+}
+
+.web-1280-1 .path-3 {
+  height: 381px;
+  left: 0;
+  mix-blend-mode: color-burn;
+  object-fit: cover;
+  position: absolute;
+  top: 493px;
+  width: 1283px;
+}
+
+.web-1280-1 .path-4 {
+  height: 787px;
+  left: 905px;
+  object-fit: cover;
+  position: absolute;
+  top: 102px;
+  width: 390px;
+}
+
+.web-1280-1 .untitled-1-02 {
+  background-image: url(../img/untitled-1-02@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 1024px;
+  left: 51px;
+  position: absolute;
+  top: 79px;
+  transition: all 0.2s ease-in-out;
+  width: 1280px;
+}
+
+.web-1280-1 .untitled-1-02:hover {
+  transform: rotate(135deg);
+}
+
+.web-1280-1 .plainsafe-02 {
+  height: 1008px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1260px;
+}
+
+.web-1280-1 .view-more {
+  color: var(--dove-gray);
+  font-family: var(--font-family-kefa-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 624px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-decoration: underline;
+  top: 824px;
+  white-space: nowrap;
+}
+
+.web-1280-1 .rectangle-16 {
+  background-color: #04336e;
+  height: 767px;
+  left: 0;
+  position: absolute;
+  top: 900px;
+  width: 1294px;
+}
+
+.web-1280-1 .path-12 {
+  height: 767px;
+  left: 935px;
+  object-fit: cover;
+  position: absolute;
+  top: 897px;
+  width: 358px;
+}
+
+.web-1280-1 .water-hands {
+  border-radius: 171px;
+  height: 299px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 981px;
+  width: 469px;
+}
+
+.web-1280-1 .water_fountain_-phas {
+  border-radius: 145px;
+  height: 282px;
+  left: 730px;
+  object-fit: cover;
+  position: absolute;
+  top: 982px;
+  width: 502px;
+}
+
+.web-1280-1 .save-water-logo-02 {
+  background-image: url(../img/save-water-logo-02-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 130px;
+  left: 560px;
+  position: absolute;
+  top: 895px;
+  width: 163px;
+}
+
+.web-1280-1 .rectangle-17 {
+  background-color: var(--gray-nurse);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 308px;
+  left: 26px;
+  position: absolute;
+  top: 1308px;
+  width: 572px;
+}
+
+.web-1280-1 .rectangle-18 {
+  background-color: var(--gray-nurse);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 308px;
+  left: 700px;
+  position: absolute;
+  top: 1308px;
+  width: 575px;
+}
+
+.web-1280-1 .path-13 {
+  height: 381px;
+  left: 0;
+  mix-blend-mode: color-burn;
+  object-fit: cover;
+  position: absolute;
+  top: 1291px;
+  width: 1283px;
+}
+
+.web-1280-1 .group-6 {
+  background-color: var(--half-baked);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 12px;
+  height: 32px;
+  left: 724px;
+  top: 938px;
+  width: 113px;
+}
+
+.web-1280-1 .about-us {
+  flex: 1;
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 16px;
+  margin-right: 13px;
+  margin-top: 5.5px;
+  white-space: nowrap;
+}
+
+.web-1280-1 .there-are-2-billion {
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 1359px;
+  width: 504px;
+}
+
+.web-1280-1 .over-800-children-un {
+  left: 36px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 1453px;
+  width: 531px;
+}
+
+.web-1280-1 .line-7 {
+  height: 287px;
+  left: 648px;
+  top: 1307px;
+  width: 1px;
+}
+
+.web-1280-1 .address {
+  left: 733px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 1349px;
+  width: 504px;
+}
+
+.web-1280-1 .severe-drought-linke {
+  left: 746px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 1415px;
+  width: 504px;
+}
+
+.web-1280-1 .unsafe-water-is-a-le {
+  left: 746px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 1502px;
+  width: 504px;
+}
+
+.web-1280-1 .view-more-1 {
+  color: var(--dove-gray);
+  font-family: var(--font-family-kefa-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 615px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-decoration: underline;
+  top: 1634px;
+  white-space: nowrap;
+}
+
+.web-1280-1 .group-7 {
+  align-items: flex-end;
+  background-color: var(--half-baked);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 12px;
+  height: 32px;
+  justify-content: flex-end;
+  left: 446px;
+  min-width: 113px;
+  padding: 2.5px 14px;
+  top: 938px;
+}
+
+.web-1280-1 .options {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 84px;
+  white-space: nowrap;
+}
+
+.web-1280-1 .overlap-group4 {
+  height: 1684px;
+  margin-right: -9.53px;
+  position: relative;
+  width: 1311px;
+}
+
+.web-1280-1 .rectangle-19 {
+  background-color: #5e6d37;
+  height: 766px;
+  left: 14px;
+  position: absolute;
+  top: 8px;
+  width: 1295px;
+}
+
+.web-1280-1 .path-14 {
+  height: 767px;
+  left: 952px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 358px;
+}
+
+.web-1280-1 .path-15 {
+  height: 381px;
+  left: 28px;
+  mix-blend-mode: color-burn;
+  object-fit: cover;
+  position: absolute;
+  top: 399px;
+  width: 1283px;
+}
+
+.web-1280-1 .yamuna-621x414 {
+  border-radius: 41px;
+  height: 351px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 526px;
+}
+
+.web-1280-1 .x419eae93eb18c3a82f8e3721337093787db050c9 {
+  border-radius: 47px;
+  height: 350px;
+  left: 721px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 526px;
+}
+
+.web-1280-1 .save-water-logo-02-1 {
+  background-image: url(../img/save-water-logo-02-1@1x.png);
+  height: 130px;
+  left: 588px;
+  top: 0;
+  width: 163px;
+}
+
+.web-1280-1 .rectangle-20 {
+  background-color: var(--half-baked);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 12px;
+  height: 32px;
+  left: 475px;
+  position: absolute;
+  top: 49px;
+  width: 113px;
+}
+
+.web-1280-1 .rectangle-21 {
+  background-color: var(--half-baked);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 12px;
+  height: 32px;
+  left: 751px;
+  position: absolute;
+  top: 49px;
+  width: 113px;
+}
+
+.web-1280-1 .about-us-1 {
+  left: 767px;
+  top: 54px;
+}
+
+.web-1280-1 .line-8 {
+  height: 304px;
+  left: 669px;
+  top: 456px;
+  width: 1px;
+}
+
+.web-1280-1 .overlap-group {
+  height: 326px;
+  left: 91px;
+  position: absolute;
+  top: 453px;
+  width: 528px;
+}
+
+.web-1280-1 .rectangle-1 {
+  background-color: var(--jon);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 308px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 526px;
+}
+
+.web-1280-1 .the-problem-is-parti {
+  height: 302px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 24px;
+  width: 508px;
+}
+
+.web-1280-1 .overlap-group1 {
+  height: 319px;
+  left: 721px;
+  position: absolute;
+  top: 453px;
+  width: 528px;
+}
+
+.web-1280-1 .diarrhea-is-in-turn {
+  height: 302px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 17px;
+  width: 508px;
+}
+
+.web-1280-1 .options-1 {
+  left: 491px;
+  top: 56px;
+}
+
+.web-1280-1 .rectangle-22 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 41px;
+  height: 173px;
+  left: 58px;
+  position: absolute;
+  top: 1359px;
+  width: 330px;
+}
+
+.web-1280-1 .rectangle-23 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 41px;
+  height: 377px;
+  left: 499px;
+  position: absolute;
+  top: 1163px;
+  width: 330px;
+}
+
+.web-1280-1 .rectangle-24 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 41px;
+  height: 377px;
+  left: 905px;
+  position: absolute;
+  top: 1163px;
+  width: 386px;
+}
+
+.web-1280-1 .istock-black_live_matter_racism {
+  height: 869px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 789px;
+  width: 1305px;
+}
+
+.web-1280-1 .save-water-logo-02-2 {
+  background-image: url(../img/save-water-logo-02-2@1x.png);
+  height: 115px;
+  left: 597px;
+  top: 768px;
+  width: 144px;
+}
+
+.web-1280-1 .rectangle-25 {
+  background-color: var(--half-baked);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 12px;
+  height: 32px;
+  left: 479px;
+  position: absolute;
+  top: 820px;
+  width: 113px;
+}
+
+.web-1280-1 .rectangle-26 {
+  background-color: var(--half-baked);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 12px;
+  height: 32px;
+  left: 736px;
+  position: absolute;
+  top: 820px;
+  width: 113px;
+}
+
+.web-1280-1 .about-us-2 {
+  left: 752px;
+  top: 826px;
+}
+
+.web-1280-1 .options-2 {
+  left: 495px;
+  top: 828px;
+}
+
+.web-1280-1 .group-10 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 21px;
+  left: 45px;
+  min-height: 367px;
+  padding: 0.0px 0;
+  top: 1161px;
+  width: 333px;
+}
+
+.web-1280-1 .overlap-group2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-image: url(../img/path-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 170px;
+  justify-content: flex-end;
+  min-width: 318px;
+  padding: 10.0px 4.0px;
+}
+
+.web-1280-1 .in-1993-we-experie {
+  color: var(--dove-gray);
+  font-family: var(--font-family-kefa);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 141px;
+  letter-spacing: 0;
+  line-height: 19px;
+  width: 302px;
+}
+
+.web-1280-1 .span0 {
+  color: #141414;
+  font-family: var(--font-family-kefa-regular);
+}
+
+.web-1280-1 .span1 {
+  font-family: var(--font-family-kefa-regular);
+}
+
+.web-1280-1 .path-11 {
+  height: 176px;
+  margin-left: 0;
+  object-fit: cover;
+  width: 321px;
+}
+
+.web-1280-1 .path-16 {
+  height: 421px;
+  left: 890px;
+  object-fit: cover;
+  position: absolute;
+  top: 1108px;
+  width: 414px;
+}
+
+.web-1280-1 .path-17 {
+  height: 463px;
+  left: 470px;
+  object-fit: cover;
+  position: absolute;
+  top: 1145px;
+  width: 378px;
+}
+
+.web-1280-1 .the-water-crisis-in {
+  color: #a6bf77;
+  font-family: var(--font-family-kefa-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 414px;
+  left: 514px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 1190px;
+  width: 302px;
+}
+
+.web-1280-1 .cryptosporidium-is {
+  color: #e2e2e2;
+  font-family: var(--font-family-kefa-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 472px;
+  left: 927px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 1180px;
+  width: 366px;
+}
+
+.web-1280-1 .when-this-issue-fi {
+  color: #f8f2f2;
+  font-family: var(--font-family-kefa-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 302px;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 1382px;
+  width: 279px;
+}
+
+.web-1280-1 .line-9 {
+  height: 346px;
+  left: 441px;
+  top: 1178px;
+  width: 1px;
+}
+
+.web-1280-1 .line-10 {
+  height: 346px;
+  left: 875px;
+  top: 1162px;
+  width: 2px;
+}
+
+.web-1280-1 .line-11 {
+  height: 1px;
+  left: 57px;
+  top: 1335px;
+  width: 307px;
+}
+
+.web-1280-1 .about-us-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.web-1280-1 .group {
+  display: flex;
+  position: absolute;
+}
+
+.web-1280-1 .line {
+  object-fit: cover;
+  position: absolute;
+}
+
+.web-1280-1 .options-3 {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.web-1280-1 .save-water-logo-02-3 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: absolute;
+}

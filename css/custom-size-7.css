@@ -1,0 +1,99 @@
+/* screen - custom-size-7 */
+
+.custom-size-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 766px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.custom-size-7 .overlap-group {
+  height: 823px;
+  margin-top: -22px;
+  position: relative;
+  width: 1284px;
+}
+
+.custom-size-7 .rectangle-1 {
+  background-color: #032863;
+  height: 766px;
+  left: 4px;
+  position: absolute;
+  top: 22px;
+  width: 1276px;
+}
+
+.custom-size-7 .component-3-1 {
+  background-image: url(../img/path-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 155px;
+  left: 4px;
+  position: absolute;
+  top: 626px;
+  width: 1276px;
+}
+
+.custom-size-7 .component-4-1 {
+  background-image: url(../img/path-21@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 187px;
+  left: 0;
+  position: absolute;
+  top: 585px;
+  width: 1190px;
+}
+
+.custom-size-7 .component-5-1 {
+  background-image: url(../img/path-19@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 134px;
+  left: 0;
+  position: absolute;
+  top: 654px;
+  width: 1280px;
+}
+
+.custom-size-7 .component-6-1 {
+  background-image: url(../img/path-20@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 162px;
+  left: 4px;
+  position: absolute;
+  top: 661px;
+  width: 1280px;
+}
+
+.custom-size-7 .plainsafe-02 {
+  border-radius: 421px;
+  display: block;
+  height: 742px;
+  left: 201px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: scale(1.1);
+  width: 927px;
+}
+
+.custom-size-7 .plainsafe-02.animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}

@@ -1,0 +1,123 @@
+/* screen - custom-size-5 */
+
+.custom-size-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 766px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.custom-size-5 .overlap-group3 {
+  height: 961px;
+  margin-left: -16px;
+  margin-top: -0.14px;
+  position: relative;
+  width: 1299px;
+}
+
+.custom-size-5 .overlap-group {
+  height: 961px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1299px;
+}
+
+.custom-size-5 .rectangle-1 {
+  background-color: #1d2140;
+  height: 766px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+  width: 1280px;
+}
+
+.custom-size-5 .path-1 {
+  height: 381px;
+  left: 16px;
+  mix-blend-mode: color-burn;
+  top: 388px;
+  width: 1283px;
+}
+
+.custom-size-5 .path-2 {
+  height: 767px;
+  left: 939px;
+  top: 0;
+  width: 358px;
+}
+
+.custom-size-5 .line-2 {
+  height: 306px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 2px;
+}
+
+.custom-size-5 .save-water-logo-02 {
+  background-image: url(../img/save-water-logo-02-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 130px;
+  left: 575px;
+  position: absolute;
+  top: 13px;
+  width: 163px;
+}
+
+.custom-size-5 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--half-baked);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 12px;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  left: 462px;
+  min-width: 113px;
+  padding: 2.5px 14px;
+  position: absolute;
+  top: 62px;
+}
+
+.custom-size-5 .options {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 84px;
+  white-space: nowrap;
+}
+
+.custom-size-5 .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--half-baked);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 12px;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  left: 738px;
+  min-width: 113px;
+  padding: 2.5px 14px;
+  position: absolute;
+  top: 62px;
+}
+
+.custom-size-5 .about-us {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 25px;
+  min-width: 84px;
+  white-space: nowrap;
+}
+
+.custom-size-5 .path {
+  object-fit: cover;
+  position: absolute;
+}

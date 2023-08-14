@@ -1,0 +1,75 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/635fc8ffe9a771f97a57bcf7.635fc900b686f7187ccd253c.kjHBQ70.hcp.png");
+
+@font-face {
+  font-family: "Kefa-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Font Book.app.zip");
+}
+@font-face {
+  font-family: "Kefa-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Ghost Factory.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HelveticaNeue-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/HelveticaNeue.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HelveticaNeue-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/HelveticaNeue.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HelveticaNeue-CondensedBlack";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/HelveticaNeue-CondensedBlack-07.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HelveticaNeue-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/HelveticaNeueMed.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HelveticaNeue-CondensedBold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/HelveticaNeue-CondensedBold.otf") format("opentype");
+}
+@font-face {
+  font-family: "Helvetica-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Helvetica-Bold.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

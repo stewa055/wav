@@ -1,0 +1,130 @@
+:root { 
+  --black: #000000;
+  --concrete: #f2f2f2;
+  --crimson: #e61545;
+  --dove-gray: #707070;
+  --emperor: #534a4a;
+  --gray-nurse: #eaeaea;
+  --gray-nurse-2: #eae8e8;
+  --half-baked: #89bdc6;
+  --jon: #3e1f1f;
+  --jordy-blue: #96baf2;
+  --portage: #7c9fd8;
+  --ripe-lemon: #edd30b;
+  --turquoise: #2adddd;
+  --white: #ffffff;
+  --yellow-green: #b7d87c;
+  --zircon: #f5ffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 19px;
+  --font-size-s: 15px;
+  --font-size-xl: 22px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 41px;
+  --font-size-xxxl: 43px;
+ 
+  --font-family-helvetica: "Helvetica", Helvetica;
+  --font-family-helvetica-bold: "Helvetica-Bold", Helvetica;
+  --font-family-helvetica_neue: "Helvetica Neue", Helvetica;
+  --font-family-helveticaneue-bold: "HelveticaNeue-Bold", Helvetica;
+  --font-family-helveticaneue-condensedblack: "HelveticaNeue-CondensedBlack", Helvetica;
+  --font-family-helveticaneue-condensedbold: "HelveticaNeue-CondensedBold", Helvetica;
+  --font-family-helveticaneue-medium: "HelveticaNeue-Medium", Helvetica;
+  --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
+  --font-family-kefa: "Kefa", Helvetica;
+  --font-family-kefa-bold: "Kefa-Bold", Helvetica;
+  --font-family-kefa-regular: "Kefa-Regular", Helvetica;
+}
+.helvetica-bold-zircon-22px {
+  color: var(--zircon);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.kefa-bold-dove-gray-19px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-kefa-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helveticaneue-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-helveticaneue-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helveticaneue-regular-normal-gray-nurse-22px {
+  color: var(--gray-nurse-2);
+  font-family: var(--font-family-helveticaneue-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helvetica-bold-white-22px {
+  font-family: var(--font-family-helvetica);
+  font-size: var(--font-size-xl);
+}
+
+.helvetica-bold-jordy-blue-22px {
+  color: var(--jordy-blue);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helvetica-bold-turquoise-22px {
+  color: var(--turquoise);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helvetica-bold-ripe-lemon-22px {
+  color: var(--ripe-lemon);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helvetica-bold-crimson-22px {
+  color: var(--crimson);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.kefa-bold-dove-gray-18px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-kefa-bold);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.kefa-bold-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-kefa-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helveticaneue-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-helveticaneue-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
